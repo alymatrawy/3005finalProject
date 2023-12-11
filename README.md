@@ -7,11 +7,11 @@ Yahya Mohamed 101186046
 December 10, 2023
 
 
-Link to Youtube Video : 
+Link to Youtube Video : https://www.youtube.com/watch?v=A-p9kAK9e3I
 
 List of files: 
 
-- Project Report - Detailed description of project including: Requirements chosen, Entities, Relationships, 
+- Project Report - Detailed description of project including: Requirements chosen, Entities, Relationships, Functional Dependencies
 - ER MODEL
 - Database Structure
 - DDL File - DDL file used to populate our database
